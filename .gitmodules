@@ -4,3 +4,9 @@
 [submodule "demo"]
 	path = demo
 	url = https://github.com/CityVizor/CityVizor-tools-demo
+[submodule "embed"]
+	path = embed
+	url = https://github.com/CityVizor/CityVizor-tools-embed
+[submodule "kxx-cleaner"]
+	path = kxx-cleaner
+	url = https://github.com/CityVizor/CityVizor-tools-kxx-cleaner
