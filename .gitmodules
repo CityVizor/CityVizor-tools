@@ -10,3 +10,6 @@
 [submodule "kxx-cleaner"]
 	path = kxx-cleaner
 	url = https://github.com/CityVizor/CityVizor-tools-kxx-cleaner
+[submodule "CityVizor-tools-embed"]
+	path = CityVizor-tools-embed
+	url = https://github.com/CityVizor/CityVizor-tools-embed
